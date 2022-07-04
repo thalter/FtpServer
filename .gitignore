@@ -219,3 +219,4 @@ ModelManifest.xml
 samples/TestFtpServer/Properties/PublishProfiles/FolderProfile\.pubxml
 
 samples/TestFtpServer/appsettings\.Development\.json
+*.snupkg

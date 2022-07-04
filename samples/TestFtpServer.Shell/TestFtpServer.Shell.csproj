@@ -21,8 +21,8 @@
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0" />
     <PackageReference Include="Microsoft.Extensions.Logging" Version="6.0.0" />
     <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="6.0.0" />
-    <PackageReference Include="Scrutor" Version="3.1.0" />
-    <PackageReference Include="System.Interactive.Async" Version="4.0.0" />
+    <PackageReference Include="Scrutor" Version="4.2.0" />
+    <PackageReference Include="System.Interactive.Async" Version="6.0.1" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\TestFtpServer.Api\TestFtpServer.Api.csproj" />

@@ -4,9 +4,9 @@
 
   <PropertyGroup>
     <LangVersion>8.0</LangVersion>
-    <VersionPrefix>3.0.0</VersionPrefix>
+    <VersionPrefix>3.2.0</VersionPrefix>
     <Product>FTP Server</Product>
-    <Copyright>Fubar Development Junker 2015-2019, 40three GmbH 2019</Copyright>
+    <Copyright>Fubar Development Junker 2015-2022, 40three GmbH 2019</Copyright>
     <Company>Fubar Development Junker</Company>
     <Authors>Fubar Development Junker</Authors>
     <PackageProjectUrl>https://github.com/FubarDevelopment/FtpServer</PackageProjectUrl>

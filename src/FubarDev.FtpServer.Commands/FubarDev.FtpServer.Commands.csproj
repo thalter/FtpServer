@@ -4,6 +4,7 @@
     <Description>Commands for the portable FTP server</Description>
     <RootNamespace>FubarDev.FtpServer</RootNamespace>
     <PackageTags>portable;FTP;server</PackageTags>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
   </PropertyGroup>
   <Import Project="../../PackageLibrary.props" />
   <ItemGroup>
@@ -11,6 +12,9 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="JetBrains.Annotations" Version="2022.1.0" PrivateAssets="All" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Update="Microsoft.SourceLink.GitHub" Version="1.1.1" />
   </ItemGroup>
   <Import Project="..\..\third-party\DotNet.Glob\DotNet.Glob.projitems" Label="Shared" />
 </Project>
